@@ -1,4 +1,4 @@
---- Day 2: 1202 Program Alarm ---
+# Day 2: 1202 Program Alarm
 
 On the way to your gravity assist around the Moon, your ship computer beeps angrily about a "1202 program alarm". On the radio, an Elf is already explaining how to handle the situation: "Don't worry, that's perfectly norma--" The ship computer bursts into flames.
 
@@ -50,8 +50,8 @@ Here are the initial and final states of a few more small programs:
 
 Once you have a working computer, the first step is to restore the gravity assist program (your puzzle input) to the "1202 program alarm" state it had just before the last computer caught fire. To do this, before running the program, replace position 1 with the value 12 and replace position 2 with the value 2. What value is left at position 0 after the program halts?
 
-Your puzzle answer was 3790645.
---- Part Two ---
+Your puzzle answer was **3790645**.
+# Part Two 
 
 "Good, the new computer seems to be working correctly! Keep it nearby during this mission - you'll probably use it again. Real Intcode computers support many more features than your new one, but we'll let you know what they are as you need them."
 
@@ -71,4 +71,4 @@ Once the program has halted, its output is available at address 0, also just lik
 
 Find the input noun and verb that cause the program to produce the output 19690720. What is 100 * noun + verb? (For example, if noun=12 and verb=2, the answer would be 1202.)
 
-Your puzzle answer was 6577.
+Your puzzle answer was **6577**.
